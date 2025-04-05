@@ -1,6 +1,6 @@
 # GIF Generator App
 
-[![Live Demo](https://img.shields.io/badge/demo-live-green)](https://your-demo-link.com)
+[![Live Demo](https://img.shields.io/badge/demo-live-green)](https://gif-generator-app.vercel.app/)
 
 A React application that generates random GIFs using the GIPHY API.
 
